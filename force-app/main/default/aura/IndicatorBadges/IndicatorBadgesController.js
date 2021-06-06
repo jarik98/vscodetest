@@ -7,6 +7,7 @@
       }
     },
     dosome:function(){},
-    
+    newUpdate: function(){}
+
     //future code here
   })
