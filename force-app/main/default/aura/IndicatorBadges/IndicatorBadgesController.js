@@ -6,5 +6,7 @@
         helper.getLabelForRecord(component, sObj);
       }
     },
+    dosome:function(){},
+    
     //future code here
   })
